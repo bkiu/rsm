@@ -219,6 +219,6 @@ Possible next steps, kept small on purpose:
 
 ## License
 
-GPL-3.0. The protobuf definitions and several protocol details come from
+GPL-3.0 (see [LICENSE](LICENSE)). The protobuf definitions and several protocol details come from
 [meshtastic/firmware](https://github.com/meshtastic/firmware) (GPL-3.0). Hardware details were cross-checked
 against [d4rkmen/plai](https://github.com/d4rkmen/plai).
