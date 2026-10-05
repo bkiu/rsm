@@ -1,0 +1,6 @@
+{
+  "name": "meshtastic_protobufs",
+  "version": "2.7.0",
+  "description": "nanopb-generated Meshtastic protobufs, copied from meshtastic/firmware src/mesh/generated (GPL-3.0)",
+  "build": { "includeDir": "src", "srcDir": "src" }
+}
