@@ -1,5 +1,7 @@
 # Really Simple Messenger (rsm)
 
+<img width="1920" height="1440" alt="cardputer" src="https://github.com/user-attachments/assets/27b066a2-0039-4fbe-82d0-dda5cd8ffe0b" />
+
 The simplest Meshtastic messenger for the **M5Stack Cardputer ADV + Cap LoRa-1262**.
 
 On the device you do one thing: **message people**. Pick a node or channel, type, press Enter. The text is big,
