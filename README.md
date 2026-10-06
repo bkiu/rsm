@@ -1,6 +1,6 @@
 # Really Simple Messenger (rsm)
 
-<img width="1920" height="1440" alt="cardputer" src="https://github.com/user-attachments/assets/27b066a2-0039-4fbe-82d0-dda5cd8ffe0b" />
+<img style="max-width: 600px" alt="cardputer" src="https://github.com/user-attachments/assets/27b066a2-0039-4fbe-82d0-dda5cd8ffe0b" />
 
 The simplest Meshtastic messenger for the **M5Stack Cardputer ADV + Cap LoRa-1262**.
 
